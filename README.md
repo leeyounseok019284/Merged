@@ -6,12 +6,13 @@
 TtS가 어색하게 느껴지는 이유 중 가장 큰 것은, 감정을 표현할 수 없는 목소리라는 점이라고 생각합니다. 하지만 이런 단점을 보완할 감정 추가라는 기능이 있는 프로그램이 있었기에, 그 프로그램의 특징을 활용하여 더 매력적인 프로그램으로 만들 수 있었으면 좋겠다고 생각했습니다.
 때문에 emotivoice의 코드와 tweetvec2의 코드를 적절히 활용해서, 감정이 담긴 목소리를 생성할 때 함께 사용할 적절한 이모티콘을 추천해주는 프로그램을 만들 계획입니다.
 
-## emotivoice
-[emotivoice주소](https://github.com/imradhakrishnan/EmojiRecommender,"텍스트를 감정이 담긴 목소리로 변형해주는 프로그램입니다.")
-* 
-
-
-## tweetvec2
-[tweetvec2주소](https://github.com/imradhakrishnan/EmojiRecommender,"이모티콘을 추천해주는 프로그램입니다.")
-* 
 ## 완성본 이미지 캡쳐
+---
+## Emotivoice
+[emotivoice주소](https://github.com/imradhakrishnan/EmojiRecommender, "텍스트를 감정이 담긴 목소리로 변형해주는 프로그램입니다.")
+* 텍스트를 감정이 담긴 목소리로 변형해주는 프로그램입니다.
+
+
+## Tweetvec2
+[tweetvec2주소](https://github.com/imradhakrishnan/EmojiRecommender, "이모티콘을 추천해주는 프로그램입니다.")
+* 이모티콘을 추천해주는 프로그램입니다.
